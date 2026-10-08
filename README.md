@@ -1,2 +1,2 @@
-# My-Dashboard
-個人用のダッシュボード
+# my-dashboard
+自分用のダッシュボード
